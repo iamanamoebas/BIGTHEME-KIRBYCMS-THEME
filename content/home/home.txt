@@ -1,0 +1,109 @@
+Title: Home
+
+----
+
+Text: 
+
+----
+
+Slidertitle: THE BIG WONDER
+
+----
+
+Slidertext: THE ULTIMATE TEMPLATE
+
+----
+
+Slidertitle1: RESPONSIVE DESIGN
+
+----
+
+Slidertext1: FREE TO USE
+
+----
+
+Slidertitle2: HANDCRAFTED
+
+----
+
+Slidertext2: ONLY FOR YOU
+
+----
+
+Abouttitle: ABOUT
+
+----
+
+Abouttext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis felis dolor, id gravida tellus tempor vitae. In efficitur ipsum non faucibus tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis felis dolor, id gravida tellus tempor vitae. In efficitur ipsum non faucibus tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis felis dolor, id gravida tellus tempor vitae. In efficitur ipsum non faucibus tempus.
+
+----
+
+Featuretitle: FEATURES
+
+----
+
+Featuretext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis felis dolor, id gravida tellus tempor vitae. In efficitur ipsum non faucibus tempus.
+
+----
+
+Responsivetitle: Responsive Design
+
+----
+
+Responsivetext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet.
+
+----
+
+Easytitle: Easy to Customize
+
+----
+
+Easytext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet.
+
+----
+
+Freetitle: Free to Use
+
+----
+
+Freetext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet.
+
+----
+
+Teamtitle: TEAM
+
+----
+
+Teamtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis felis dolor, id gravida tellus tempor vitae. In efficitur ipsum non faucibus tempus.
+
+----
+
+Avatar: 1t.jpg
+
+----
+
+Avatartitle: Chrissy John Deo
+
+----
+
+Avatartext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet.
+
+----
+
+Avatar1: 2t.jpg
+
+----
+
+Avatartitle1: JHON DEO ALEX1
+
+----
+
+Avatartext1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet.1
+
+----
+
+Contacttitle: CONTACT
+
+----
+
+Contacttext: Lorem ipsum dolor sit amet,1 consectetur adipiscing elit. Mauris sagittis felis dolor, id gravida tellus tempor vitae. In efficitur ipsum non faucibus tempus.

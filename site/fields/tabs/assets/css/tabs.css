@@ -1,0 +1,105 @@
+.tab-nav {
+  margin-bottom: 20px;
+  margin-left: 1.5em;
+  margin-top: -1.5em;
+  padding-top: 1.5em;
+  list-style: none;
+  border-bottom: 2px solid #dddddd;
+  top: 0px;
+  position: relative;
+  background: #EFEFEF;
+  z-index: 10;
+}
+
+.modal-content .tab-nav {
+  background: white;
+}
+
+@media screen and (min-height: 700px) {
+  .tab-nav {
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: sticky;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .tab-nav {
+    border-bottom: none;
+  }
+}
+
+
+.tab-nav li {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: -2px;
+  background: none;
+  display: inline-block;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0px 0 .75em 0;
+}
+
+.tab-nav li:hover {
+  border-bottom: 2px solid rgba(0, 0, 0, .15);
+}
+
+
+
+.tab-nav li .fa {
+  margin-right: 10px;
+  color: #bbb;
+}
+
+.tab-nav li.active {
+  border-bottom: 2px solid black;
+  background: #efefef;
+}
+
+.tab-nav li.active .fa {
+  color: black;
+}
+
+.tab-container {
+  /* display: none; causes the Kirby textarea to be unable to determine the correct */
+  /* height to set itself too. It usually ends up too big. Instead, we move the div */
+  /* off-screen so that the textarea can properly determine it's height */
+  visibility: hidden;
+  max-height: 0px;
+  overflow: hidden;
+}
+
+.tab-container.active {
+  visibility: visible;
+  max-height: 9999px;
+  overflow: visible;
+}
+
+@media screen and (max-width: 500px) {
+  .tab-nav {
+    background-color: white;
+    border: 2px solid #DDDDDD;
+    margin-top: -1.5em;
+    padding-top: 0;
+  }
+  .tab-nav li {
+    display: block;
+    background: white;
+    border-bottom: none;
+    margin: 0;
+    padding: 8px 10px 10px 10px;
+  }
+  .tab-nav li:hover {
+    border: none;
+  }
+  .tab-nav li.active {
+    border-bottom: none;
+  }
+
+  .tab-nav li.active .fa {
+    color: white;
+  }
+  
+  
+}
