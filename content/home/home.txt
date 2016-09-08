@@ -107,3 +107,7 @@ Contacttitle: CONTACT
 ----
 
 Contacttext: Lorem ipsum dolor sit amet,1 consectetur adipiscing elit. Mauris sagittis felis dolor, id gravida tellus tempor vitae. In efficitur ipsum non faucibus tempus.
+
+----
+
+Bgimage: 1.jpg
