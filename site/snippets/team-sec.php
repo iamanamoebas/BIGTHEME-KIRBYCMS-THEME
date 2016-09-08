@@ -11,7 +11,7 @@
         </div>
         <div class="row">
             <div class="col-lg-2 col-md-2 col-sm-2  col-xs-12 " data-scroll-reveal="enter from the bottom after 0.4s">
-                <img src="<?= $page->avatar()->toFile()->url() ?>" class="img-circle img-responsive set-img" />
+                <img src="<?= $page->image($page->avatar())->url() ?>" type="image/jpg" class="img-circle img-responsive set-img" />
 
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4  col-xs-12 " data-scroll-reveal="enter from the bottom after 0.5s">
@@ -21,7 +21,7 @@
                 </p>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-2  col-xs-12 " data-scroll-reveal="enter from the bottom after 0.6s">
-                <img src="<?= $page->avatar1()->toFile()->url() ?>" class="img-circle img-responsive set-img" />
+                <img src="<?= $page->image($page->avatar1())->url() ?>" type="image/jpg" class="img-circle img-responsive set-img" />
 
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4  col-xs-12 " data-scroll-reveal="enter from the bottom after 0.7s">
